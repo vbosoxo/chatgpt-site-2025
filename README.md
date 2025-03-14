@@ -1,6 +1,6 @@
-# 【2025年3月13日更新】 ChatGPT 官方 中文版：国内访问ChatGPT镜像指南（支持GPT-4、GPT-4o、GPT-o1，无需翻墙）
+# 【2025年3月15日更新】 ChatGPT 官方 中文版：国内访问ChatGPT镜像指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、deepseek、grok3，无需翻墙）
 
-> 更新时间：2025/3/13 00:47:15
+> 更新时间：2025/3/15 00:47:15
 
 想要体验 ChatGPT 中文版，无需翻墙，支持最新 GPT-4 和多种强大功能的完整指南来了！
 
@@ -30,7 +30,7 @@ ChatGPT 中文版是 OpenAI 针对中文用户优化开发的版本，提供更�
 
 | 网站名          | 链接                                    | 支持功能                          | 优势特色                                  |
 |-----------------|-----------------------------------------|-----------------------------------|-------------------------------------------|
-| 松鼠GPT          | [https://songshugpt.com](https://songshugpt.com) | GPT-4、GPT-o1、AI绘画、AI 翻译    | 快速响应，无需注册，界面友好              |
+| 松鼠GPT          | [https://songshugpt.com](https://songshugpt.com) | GPT-4、GPT-o1、GPT-o3、deepseek、grok3、AI绘画、AI 翻译    | 快速响应，无需注册，界面友好              |
 | 狗狗AI            | [https://gptdog.online](https://gptdog.online)     | GPT-4、GPT-4 turbo、GPT-o1、AI PPT、AI插件、Midjourney绘画 | 多功能支持，适用于各种场景（办公、创意、教育） |
 | 熊猫AI          | [https://ai.panda.xyz](https://ai.panda.xyz) | 支持GPT全系列模型                | 多模型选择，智能推荐，用户体验优异        |
 
