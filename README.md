@@ -1,6 +1,6 @@
-# 【2025年4月1日更新】 ChatGPT 官方 中文版：国内访问ChatGPT镜像指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、deepseek、grok3，无需翻墙）
+# 【2025年4月3日更新】 ChatGPT 官方 中文版：国内访问ChatGPT镜像指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、deepseek、grok3，无需翻墙）
 
-> 更新时间：2025/4/1 00:47:15
+> 更新时间：2025/4/3 00:47:15
 
 想要体验 ChatGPT 中文版，无需翻墙，支持最新 GPT-4 和多种强大功能的完整指南来了！
 
