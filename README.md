@@ -30,7 +30,7 @@ ChatGPT 中文版是 OpenAI 针对中文用户优化开发的版本，提供更�
 
 | 网站名          | 链接                                    | 支持功能                          | 优势特色                                  |
 |-----------------|-----------------------------------------|-----------------------------------|-------------------------------------------|
-| 松鼠GPT          | [https://songshugpt.com](https://songshugpt.com) | GPT-4、GPT-o1、GPT-o3、deepseek、grok3、AI绘画、AI 翻译    | 快速响应，无需注册，界面友好              |
+| 松鼠GPT          | [https://www.songshugpt.com](https://www.songshugpt.com) | GPT-4、GPT-o1、GPT-o3、deepseek、grok3、AI绘画、AI 翻译    | 快速响应，无需注册，界面友好              |
 | 狗狗AI            | [https://gptdog.online](https://gptdog.online)     | GPT-4、GPT-4 turbo、GPT-o1、AI PPT、AI插件、Midjourney绘画 | 多功能支持，适用于各种场景（办公、创意、教育） |
 | 熊猫AI          | [https://ai.panda.xyz](https://ai.panda.xyz) | 支持GPT全系列模型                | 多模型选择，智能推荐，用户体验优异        |
 
@@ -50,7 +50,7 @@ ChatGPT 中文版是 OpenAI 针对中文用户优化开发的版本，提供更�
 
 ### 方法一：通过镜像网站快速体验
 
-1. **选择镜像站点**：如 **松鼠GPT** [https://songshugpt.com](https://songshugpt.com)。
+1. **选择镜像站点**：如 **松鼠GPT** [https://www.songshugpt.com](https://www.songshugpt.com)。
 2. **注册或直接使用**：
    - **扫码注册**：使用微信扫码登录，迅速创建账号。
    - **免注册**：直接进入聊天界面，开始对话。
